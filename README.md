@@ -7,7 +7,7 @@ This is small project for test I used Json:API stardard format for json.
 I placed postman collect in code which can be opened using postman and check all
 api points
 
-(Test.postman_collection.json)[]
+[Test.postman_collection.json](https://raw.githubusercontent.com/kamalpanhwar/todotest/master/Test.postman_collection.json)
 
 Things you may want to cover:
 
